@@ -1,7 +1,7 @@
 {
   "name": "logrocket-sveltekit",
   "version": "0.1.0",
-  "description": "LogRocket plugin for SvelteKit — error tracking, navigation, Svelte 5 state replay, and session utilities",
+  "description": "LogRocket plugin for SvelteKit — error handling, navigation tracking, and state logging",
   "type": "module",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
